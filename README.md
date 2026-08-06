@@ -32,14 +32,15 @@
 
 ## ⚡ The short version
 
-I'm a CSE (IoT) student who'd rather ship something real than sit through another tutorial. I build full-stack apps, dip into applied AI, and treat DSA as a daily habit — not a one-time cram.
+I'm a **2nd-year CSE (IoT) student** passionate about problem-solving, software development, and Artificial Intelligence.
 
-- 🧠 Currently learning React, Firebase, Node.js and applied AI end-to-end
+I believe in learning by building projects rather than just watching tutorials. Currently, I'm focused on improving my DSA skills, exploring AI, and becoming a better software engineer every day.
+
+- 🧠 Currently learning **Java** , **C++** , **Python**
 - 📚 Daily DSA on **LeetCode** — consistency over intensity
-- 🛠️ Actively building **EduForge**, an AI-powered learning platform
-- 🎯 Goal: become a Software Engineer at a top product company
-- 💬 Ask me about React/Firebase builds, IoT + software integration, or DSA in Python
-
+- 🤖 Learning Artificial Intelligence and building AI-based projects
+- 🎯 Goal: become a Software Engineer at a top product company and also be want to grow own startup
+- 💬 Ask me about DSA, Python, Git/GitHub, or AI learning
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:5c4a1f,100:d9b45c&height=3" />
 
 ## 🚀 What I'm Building
