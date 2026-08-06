@@ -84,27 +84,23 @@ A growing archive of DSA problems solved with clean, explained Python code.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:5c4a1f,100:d9b45c&height=3" />
 
-## 📈 Contribution Charts
+## 📈 Contribution Stats
 
-*(Both charts below are live SVGs — they query GitHub / LeetCode on every page load, so they always reflect real, current data with no manual updates needed.)*
-
-**GitHub — commit activity over the last year**
+**GitHub**
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhirajkumar-09&theme=react-dark&bg_color=000000&color=D9B45C&line=D9B45C&point=f2efe9&area=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhirajkumar-09&show_icons=true&theme=react&bg_color=000000&title_color=D9B45C&icon_color=D9B45C&text_color=f2efe9&hide_border=true&count_private=true)
 
 </div>
 
-**LeetCode — daily submission heatmap**
+**LeetCode**
 
 <div align="center">
 
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/dhirajku0023?theme=dark&font=JetBrains%20Mono&extension=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/dhirajku0023?theme=dark&font=JetBrains%20Mono)
 
 </div>
-
-> **Note:** the GitHub chart is keyed to the username `dhirajkumar-09` — swap that in the URL above if your actual GitHub handle differs. The LeetCode chart uses `dhirajku0023`, matching the badge link at the top.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:5c4a1f,100:d9b45c&height=3" />
 
