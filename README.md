@@ -42,24 +42,6 @@ I'm a CSE (IoT) student who'd rather ship something real than sit through anothe
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:5c4a1f,100:d9b45c&height=3" />
 
-## 🧰 Tech Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=D9B45C"/>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=D9B45C"/>
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=D9B45C"/>
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=D9B45C"/>
-<br/>
-<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=D9B45C"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=D9B45C"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=D9B45C"/>
-<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=D9B45C"/>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:5c4a1f,100:d9b45c&height=3" />
-
 ## 🚀 What I'm Building
 
 <table width="100%">
@@ -102,28 +84,27 @@ A growing archive of DSA problems solved with clean, explained Python code.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:5c4a1f,100:d9b45c&height=3" />
 
-## 📈 Coding Activity
+## 📈 Contribution Charts
+
+*(Both charts below are live SVGs — they query GitHub / LeetCode on every page load, so they always reflect real, current data with no manual updates needed.)*
+
+**GitHub — commit activity over the last year**
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/dhirajku0023?theme=dark&font=JetBrains%20Mono&ext=contest)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhirajkumar-09&theme=react-dark&bg_color=000000&color=D9B45C&line=D9B45C&point=f2efe9&area=true&hide_border=true)
 
 </div>
+
+**LeetCode — daily submission heatmap**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhirajkumar-09&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=D9B45C&icon_color=D9B45C&text_color=f2efe9)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=dhirajkumar-09&theme=radical&hide_border=true&background=00000000&ring=D9B45C&fire=D9B45C&currStreakLabel=D9B45C)
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/dhirajku0023?theme=dark&font=JetBrains%20Mono&extension=activity)
 
 </div>
 
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajkumar-09&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=D9B45C&text_color=f2efe9)
-
-</div>
-
-> **Note:** replace `dhirajkumar-09` above with your exact GitHub username if it differs — these stat cards are keyed to the username in the URL, not the LeetCode one.
+> **Note:** the GitHub chart is keyed to the username `dhirajkumar-09` — swap that in the URL above if your actual GitHub handle differs. The LeetCode chart uses `dhirajku0023`, matching the badge link at the top.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:5c4a1f,100:d9b45c&height=3" />
 
