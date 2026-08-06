@@ -9,20 +9,15 @@
 </div>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://cdn.simpleicons.org/linkedin/d9b45c" width="18" height="18" valign="middle"/> <b>LinkedIn</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/dhirajkumar-09"><img src="https://cdn.simpleicons.org/github/d9b45c" width="18" height="18" valign="middle"/> <b>GitHub</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/dhirajku0023/"><img src="https://cdn.simpleicons.org/leetcode/d9b45c" width="18" height="18" valign="middle"/> <b>LeetCode</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://cdn.simpleicons.org/googlechrome/d9b45c" width="18" height="18" valign="middle"/> <b>Portfolio</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="dhidna9090@gmailcom"><img src="https://cdn.simpleicons.org/gmail/d9b45c" width="18" height="18" valign="middle"/> <b>Gmail</b></a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D9B45C" /></a>
+  <a href="https://leetcode.com/u/dhirajku0023/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=D9B45C" /></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=D9B45C" /></a>
+  <a href="mailto:dhidna9090@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D9B45C" /></a>
 </p>
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" height="2px" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,50:5c4a1f,100:d9b45c&height=3" />
 
 ## ⚡ The short version
 
@@ -34,7 +29,7 @@ I'm a CSE (IoT) student who'd rather ship something real than sit through anothe
 - 🎯 Goal: become a Software Engineer at a top product company
 - 💬 Ask me about React/Firebase builds, IoT + software integration, or DSA in Python
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" height="2px" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,50:5c4a1f,100:d9b45c&height=3" />
 
 ## 🚀 What I'm Building
 
@@ -44,17 +39,17 @@ I'm a CSE (IoT) student who'd rather ship something real than sit through anothe
 <h4>🎓 EduForge</h4>
 AI-powered learning platform — smart roadmaps, mock tests, progress analytics and productivity tools.
 <br/><br/>
-<img src="https://img.shields.io/badge/React-09090b?style=flat-square&color=8b7cf6"/>
-<img src="https://img.shields.io/badge/Firebase-09090b?style=flat-square&color=d9b45c"/>
-<img src="https://img.shields.io/badge/AI-09090b?style=flat-square&color=8b7cf6"/>
+<img src="https://img.shields.io/badge/React-09090b?style=flat-square&color=d9b45c"/>
+<img src="https://img.shields.io/badge/Firebase-09090b?style=flat-square&color=b8860b"/>
+<img src="https://img.shields.io/badge/AI-09090b?style=flat-square&color=d9b45c"/>
 </td>
 <td width="50%" valign="top">
 <h4>🏟 Stadium Command Centre</h4>
 Real-time stadium monitoring dashboard built for smart, large-scale event management.
 <br/><br/>
-<img src="https://img.shields.io/badge/React-09090b?style=flat-square&color=8b7cf6"/>
-<img src="https://img.shields.io/badge/Tailwind-09090b?style=flat-square&color=d9b45c"/>
-<img src="https://img.shields.io/badge/Firebase-09090b?style=flat-square&color=8b7cf6"/>
+<img src="https://img.shields.io/badge/React-09090b?style=flat-square&color=d9b45c"/>
+<img src="https://img.shields.io/badge/Tailwind-09090b?style=flat-square&color=b8860b"/>
+<img src="https://img.shields.io/badge/Firebase-09090b?style=flat-square&color=d9b45c"/>
 </td>
 </tr>
 <tr>
@@ -63,7 +58,7 @@ Real-time stadium monitoring dashboard built for smart, large-scale event manage
 A responsive developer portfolio showcasing projects, skills and achievements.
 <br/><br/>
 <img src="https://img.shields.io/badge/HTML-09090b?style=flat-square&color=d9b45c"/>
-<img src="https://img.shields.io/badge/CSS-09090b?style=flat-square&color=8b7cf6"/>
+<img src="https://img.shields.io/badge/CSS-09090b?style=flat-square&color=b8860b"/>
 <img src="https://img.shields.io/badge/JavaScript-09090b?style=flat-square&color=d9b45c"/>
 </td>
 <td width="50%" valign="top">
@@ -71,12 +66,12 @@ A responsive developer portfolio showcasing projects, skills and achievements.
 A growing archive of DSA problems solved with clean, explained Python code.
 <br/><br/>
 <img src="https://img.shields.io/badge/Python-09090b?style=flat-square&color=d9b45c"/>
-<img src="https://img.shields.io/badge/DSA-09090b?style=flat-square&color=8b7cf6"/>
+<img src="https://img.shields.io/badge/DSA-09090b?style=flat-square&color=b8860b"/>
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" height="2px" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,50:5c4a1f,100:d9b45c&height=3" />
 
 ## 🛠️ Arsenal
 
@@ -87,13 +82,13 @@ A growing archive of DSA problems solved with clean, explained Python code.
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Full%20Stack%20%E2%80%94%20React%20%2B%20Node-09090b?style=for-the-badge&color=d9b45c"/>
-<img src="https://img.shields.io/badge/Firebase%20%2F%20REST%20APIs-09090b?style=for-the-badge&color=8b7cf6"/>
+<img src="https://img.shields.io/badge/Firebase%20%2F%20REST%20APIs-09090b?style=for-the-badge&color=b8860b"/>
 <img src="https://img.shields.io/badge/DSA%20%C2%B7%20Python-09090b?style=for-the-badge&color=d9b45c"/>
-<img src="https://img.shields.io/badge/IoT%20%2B%20Software-09090b?style=for-the-badge&color=8b7cf6"/>
+<img src="https://img.shields.io/badge/IoT%20%2B%20Software-09090b?style=for-the-badge&color=b8860b"/>
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" height="2px" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,50:5c4a1f,100:d9b45c&height=3" />
 
 ## 📈 Coding Activity
 
@@ -103,23 +98,23 @@ A growing archive of DSA problems solved with clean, explained Python code.
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" height="2px" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,50:5c4a1f,100:d9b45c&height=3" />
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhirajkumar-09&show_icons=true&hide_border=true&bg_color=09090b&title_color=d9b45c&icon_color=8b7cf6&text_color=8b8b92&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhirajkumar-09&show_icons=true&hide_border=true&bg_color=09090b&title_color=d9b45c&icon_color=b8860b&text_color=8b8b92&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajkumar-09&layout=compact&hide_border=true&bg_color=09090b&title_color=d9b45c&text_color=8b8b92" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dhirajkumar-09&hide_border=true&background=09090B&stroke=D9B45C&ring=8B7CF6&fire=D9B45C&currStreakLabel=D9B45C&sideLabels=8B8B92&dates=6b7280&currStreakNum=F2EFE9&sideNums=F2EFE9" />
+  <img src="https://streak-stats.demolab.com?user=dhirajkumar-09&hide_border=true&background=09090B&stroke=D9B45C&ring=B8860B&fire=D9B45C&currStreakLabel=D9B45C&sideLabels=8B8B92&dates=6b7280&currStreakNum=F2EFE9&sideNums=F2EFE9" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhirajkumar-09&hide_border=true&bg_color=09090b&color=d9b45c&line=8b7cf6&point=ffffff&area=true&area_color=d9b45c" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhirajkumar-09&hide_border=true&bg_color=09090b&color=d9b45c&line=b8860b&point=f2efe9&area=true&area_color=d9b45c" />
 </div>
 
 <br/>
@@ -128,7 +123,7 @@ A growing archive of DSA problems solved with clean, explained Python code.
   <img src="https://github-profile-trophy.vercel.app/?username=dhirajkumar-09&theme=dark_dimmed&no-frame=true&row=1&column=6&margin-w=8" />
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" height="2px" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,50:5c4a1f,100:d9b45c&height=3" />
 
 <div align="center">
 
