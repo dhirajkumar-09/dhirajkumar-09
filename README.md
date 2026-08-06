@@ -9,21 +9,15 @@
 </div>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-d9b45c?style=for-the-badge&logo=linkedin&logoColor=09090b" />
-  </a>
-  <a href="https://github.com/dhirajkumar-09">
-    <img src="https://img.shields.io/badge/GitHub-d9b45c?style=for-the-badge&logo=github&logoColor=09090b" />
-  </a>
-  <a href="https://leetcode.com/u/dhirajku0023/">
-    <img src="https://img.shields.io/badge/LeetCode-d9b45c?style=for-the-badge&logo=leetcode&logoColor=09090b" />
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-d9b45c?style=for-the-badge&logo=googlechrome&logoColor=09090b" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-d9b45c?style=for-the-badge&logo=gmail&logoColor=09090b" />
-  </a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://cdn.simpleicons.org/linkedin/d9b45c" width="18" height="18" valign="middle"/> <b>LinkedIn</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/dhirajkumar-09"><img src="https://cdn.simpleicons.org/github/d9b45c" width="18" height="18" valign="middle"/> <b>GitHub</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/dhirajku0023/"><img src="https://cdn.simpleicons.org/leetcode/d9b45c" width="18" height="18" valign="middle"/> <b>LeetCode</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://cdn.simpleicons.org/googlechrome/d9b45c" width="18" height="18" valign="middle"/> <b>Portfolio</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="dhidna9090@gmailcom"><img src="https://cdn.simpleicons.org/gmail/d9b45c" width="18" height="18" valign="middle"/> <b>Gmail</b></a>
 </p>
 
 <br/>
@@ -39,24 +33,6 @@ I'm a CSE (IoT) student who'd rather ship something real than sit through anothe
 - 🛠️ Actively building **EduForge**, an AI-powered learning platform
 - 🎯 Goal: become a Software Engineer at a top product company
 - 💬 Ask me about React/Firebase builds, IoT + software integration, or DSA in Python
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" height="2px" />
-
-## 📅 100 Days of DSA
-
-A daily-tracked, public commitment to Python DSA.
-
-<div align="center">
-
-**Day 1 / 100** &nbsp;·&nbsp; Started → *(set your start date)*
-
-`░░░░░░░░░░░░░░░░░░░░` **1%**
-
-</div>
-
-Daily log and solved problems live in **[LeetCode-Solutions](https://github.com/dhirajkumar-09)**.
-
-> 🔧 Update `Day X / 100` and the bar (`█` done / `░` remaining) every time you log a session.
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" height="2px" />
 
