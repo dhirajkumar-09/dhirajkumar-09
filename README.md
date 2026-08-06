@@ -67,7 +67,7 @@ Real-time stadium monitoring dashboard built for smart, large-scale event manage
 <tr>
 <td width="50%" valign="top">
 <h4>🌐 My Portfolio</h4>
-A responsive developer portfolio showcasing projects, skills and achievements.
+A responsive my portfolio showcasing projects, skills and achievements.
 <br/><br/>
 <img src="https://img.shields.io/badge/HTML-09090b?style=flat-square&color=d9b45c"/>
 <img src="https://img.shields.io/badge/CSS-09090b?style=flat-square&color=b8860b"/>
@@ -75,7 +75,7 @@ A responsive developer portfolio showcasing projects, skills and achievements.
 </td>
 <td width="50%" valign="top">
 <h4>🧠 LeetCode Solutions</h4>
-A growing archive of DSA problems solved with clean, explained Python code.
+Documenting my LeetCode journey with Python solutions as I improve my problem-solving skills.
 <br/><br/>
 <img src="https://img.shields.io/badge/Python-09090b?style=flat-square&color=d9b45c"/>
 <img src="https://img.shields.io/badge/DSA-09090b?style=flat-square&color=b8860b"/>
