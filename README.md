@@ -9,10 +9,17 @@
 </div>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=D9B45C" /></a>
-  <a href="https://leetcode.com/u/dhirajku0023/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=D9B45C" /></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=D9B45C" /></a>
-  <a href="mailto:dhidna9090@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D9B45C" /></a>
+  <em>✨ Best viewed in GitHub <a href="https://github.com/settings/appearance">Dark Mode</a> for the full premium effect ✨</em>
+</p>
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.icons8.com/ios-filled/24/D9B45C/linkedin.png" width="20" valign="middle"/> <b>LinkedIn</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/dhirajku0023/"><img src="https://cdn.simpleicons.org/leetcode/D9B45C" width="18" valign="middle"/> <b>LeetCode</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://cdn.simpleicons.org/googlechrome/D9B45C" width="18" valign="middle"/> <b>Portfolio</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:dhidna9090@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D9B45C" width="18" valign="middle"/> <b>Gmail</b></a>
 </p>
 
 <br/>
