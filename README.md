@@ -10,21 +10,20 @@
 
 <p align="center">
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-d9b45c?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=09090b" />
+    <img src="https://img.shields.io/badge/LinkedIn-d9b45c?style=for-the-badge&logo=linkedin&logoColor=09090b" />
   </a>
   <a href="https://github.com/dhirajkumar-09">
-    <img src="https://img.shields.io/badge/GitHub-dhirajkumar--09-d9b45c?style=for-the-badge&logo=github&logoColor=white&labelColor=09090b" />
+    <img src="https://img.shields.io/badge/GitHub-d9b45c?style=for-the-badge&logo=github&logoColor=09090b" />
   </a>
   <a href="https://leetcode.com/u/dhirajku0023/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-d9b45c?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=09090b" />
+    <img src="https://img.shields.io/badge/LeetCode-d9b45c?style=for-the-badge&logo=leetcode&logoColor=09090b" />
   </a>
   <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-d9b45c?style=for-the-badge&logo=vercel&logoColor=white&labelColor=09090b" />
+    <img src="https://img.shields.io/badge/Portfolio-d9b45c?style=for-the-badge&logo=googlechrome&logoColor=09090b" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhirajkumar-09&style=for-the-badge&color=d9b45c&labelColor=09090b&label=PROFILE+VIEWS" />
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-d9b45c?style=for-the-badge&logo=gmail&logoColor=09090b" />
+  </a>
 </p>
 
 <br/>
