@@ -11,10 +11,10 @@
 <br/>
 
 <div align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-09090b?style=for-the-badge&logo=linkedin&logoColor=%23D9B45C" alt="LinkedIn"/></a>
-  <a href="https://leetcode.com/u/dhirajku0023/"><img src="https://img.shields.io/badge/LeetCode-09090b?style=for-the-badge&logo=leetcode&logoColor=%23D9B45C" alt="LeetCode"/></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-09090b?style=for-the-badge&logo=googlechrome&logoColor=%23D9B45C" alt="Portfolio"/></a>
-  <a href="mailto:dhidna9090@gmail.com"><img src="https://img.shields.io/badge/Gmail-09090b?style=for-the-badge&logo=gmail&logoColor=%23D9B45C" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/dhiraj-kumar-01b185350"><img src="https://img.shields.io/badge/LinkedIn-09090b?style=for-the-badge&logo=linkedin&logoColor=D9B45C" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/dhirajku0023/"><img src="https://img.shields.io/badge/LeetCode-09090b?style=for-the-badge&logo=leetcode&logoColor=D9B45C" alt="LeetCode"/></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-09090b?style=for-the-badge&logo=googlechrome&logoColor=D9B45C" alt="Portfolio"/></a>
+  <a href="mailto:dhidna9090@gmail.com"><img src="https://img.shields.io/badge/Gmail-09090b?style=for-the-badge&logo=gmail&logoColor=D9B45C" alt="Gmail"/></a>
 </div>
 
 <br/>
