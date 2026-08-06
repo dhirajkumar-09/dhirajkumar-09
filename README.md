@@ -86,15 +86,7 @@ A growing archive of DSA problems solved with clean, explained Python code.
 
 ## 📈 Contribution Stats
 
-**GitHub**
 
-A snapshot of my public GitHub activity — total stars earned, commits, pull requests, and issues across all repositories.
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhirajkumar-09&show_icons=true&theme=react&bg_color=000000&title_color=D9B45C&icon_color=D9B45C&text_color=f2efe9&hide_border=true)
-
-</div>
 
 **LeetCode**
 
