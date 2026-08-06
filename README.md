@@ -1,5 +1,5 @@
 <!-- ═══════════════════════ BANNER ═══════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:3a2f14,100:d9b45c&height=220&section=header&text=DHIRAJ%20KUMAR&fontSize=70&fontColor=f2efe9&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20Problem%20Solver&descSize=18&descAlignY=55&descColor=d9b45c" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,35:2b2410,70:5c4a1f,100:d9b45c&height=240&section=header&text=DHIRAJ%20KUMAR&fontSize=72&fontColor=f2efe9&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20Problem%20Solver&descSize=18&descAlignY=55&descColor=d9b45c" />
 
 <!-- ═══════════════════════ TYPING INTRO ═══════════════════════ -->
 <div align="center">
@@ -10,23 +10,26 @@
 
 <p align="center">
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-d9b45c?style=flat-square&logo=linkedin&logoColor=white&labelColor=09090b" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-d9b45c?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=09090b" />
   </a>
   <a href="https://github.com/dhirajkumar-09">
-    <img src="https://img.shields.io/badge/GitHub-dhirajkumar--09-d9b45c?style=flat-square&logo=github&logoColor=white&labelColor=09090b" />
+    <img src="https://img.shields.io/badge/GitHub-dhirajkumar--09-d9b45c?style=for-the-badge&logo=github&logoColor=white&labelColor=09090b" />
   </a>
-  <a href="YOUR_LEETCODE_URL">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-d9b45c?style=flat-square&logo=leetcode&logoColor=white&labelColor=09090b" />
+  <a href="https://leetcode.com/u/dhirajku0023/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-d9b45c?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=09090b" />
   </a>
   <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-d9b45c?style=flat-square&logo=vercel&logoColor=white&labelColor=09090b" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-d9b45c?style=for-the-badge&logo=vercel&logoColor=white&labelColor=09090b" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=dhirajkumar-09&style=flat-square&color=d9b45c&labelColor=09090b&label=PROFILE+VIEWS" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhirajkumar-09&style=for-the-badge&color=d9b45c&labelColor=09090b&label=PROFILE+VIEWS" />
 </p>
 
 <br/>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" height="2px" />
 
 ## ⚡ The short version
 
@@ -38,11 +41,11 @@ I'm a CSE (IoT) student who'd rather ship something real than sit through anothe
 - 🎯 Goal: become a Software Engineer at a top product company
 - 💬 Ask me about React/Firebase builds, IoT + software integration, or DSA in Python
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" height="2px" />
 
 ## 📅 100 Days of DSA
 
-A daily-tracked, public commitment to Python DSA — update the counter below as you go.
+A daily-tracked, public commitment to Python DSA.
 
 <div align="center">
 
@@ -52,22 +55,53 @@ A daily-tracked, public commitment to Python DSA — update the counter below as
 
 </div>
 
-Daily log and solved problems live in **[LeetCode-Solutions](https://github.com/dhirajkumar-09)** — arrays, strings, recursion, trees, and everything since.
+Daily log and solved problems live in **[LeetCode-Solutions](https://github.com/dhirajkumar-09)**.
 
-> 🔧 *Update `Day X / 100` and the bar above each time you log a session — swap the block characters (`█` done / `░` remaining) to reflect progress.*
+> 🔧 Update `Day X / 100` and the bar (`█` done / `░` remaining) every time you log a session.
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" height="2px" />
 
-## 🚀 What I'm building
+## 🚀 What I'm Building
 
-| Project | What it is |
-| :------ | :--------- |
-| **[EduForge](https://github.com/dhirajkumar-09)** | AI-powered learning platform — smart roadmaps, mock tests, progress analytics and productivity tools. |
-| **[Stadium Command Centre](https://github.com/dhirajkumar-09)** | Real-time stadium monitoring dashboard built for smart, large-scale event management. |
-| **[My Portfolio](https://github.com/dhirajkumar-09)** | A responsive developer portfolio showcasing projects, skills and achievements. |
-| **[LeetCode Solutions](https://github.com/dhirajkumar-09)** | A growing archive of DSA problems solved with clean, explained Python code. |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h4>🎓 EduForge</h4>
+AI-powered learning platform — smart roadmaps, mock tests, progress analytics and productivity tools.
+<br/><br/>
+<img src="https://img.shields.io/badge/React-09090b?style=flat-square&color=8b7cf6"/>
+<img src="https://img.shields.io/badge/Firebase-09090b?style=flat-square&color=d9b45c"/>
+<img src="https://img.shields.io/badge/AI-09090b?style=flat-square&color=8b7cf6"/>
+</td>
+<td width="50%" valign="top">
+<h4>🏟 Stadium Command Centre</h4>
+Real-time stadium monitoring dashboard built for smart, large-scale event management.
+<br/><br/>
+<img src="https://img.shields.io/badge/React-09090b?style=flat-square&color=8b7cf6"/>
+<img src="https://img.shields.io/badge/Tailwind-09090b?style=flat-square&color=d9b45c"/>
+<img src="https://img.shields.io/badge/Firebase-09090b?style=flat-square&color=8b7cf6"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4>🌐 My Portfolio</h4>
+A responsive developer portfolio showcasing projects, skills and achievements.
+<br/><br/>
+<img src="https://img.shields.io/badge/HTML-09090b?style=flat-square&color=d9b45c"/>
+<img src="https://img.shields.io/badge/CSS-09090b?style=flat-square&color=8b7cf6"/>
+<img src="https://img.shields.io/badge/JavaScript-09090b?style=flat-square&color=d9b45c"/>
+</td>
+<td width="50%" valign="top">
+<h4>🧠 LeetCode Solutions</h4>
+A growing archive of DSA problems solved with clean, explained Python code.
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-09090b?style=flat-square&color=d9b45c"/>
+<img src="https://img.shields.io/badge/DSA-09090b?style=flat-square&color=8b7cf6"/>
+</td>
+</tr>
+</table>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" height="2px" />
 
 ## 🛠️ Arsenal
 
@@ -77,24 +111,24 @@ Daily log and solved problems live in **[LeetCode-Solutions](https://github.com/
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Full%20Stack%20%E2%80%94%20React%20%2B%20Node-d9b45c?style=flat-square&logoColor=white&labelColor=09090b" />
-<img src="https://img.shields.io/badge/Firebase%20%2F%20REST%20APIs-d9b45c?style=flat-square&logoColor=white&labelColor=09090b" />
-<img src="https://img.shields.io/badge/DSA%20%C2%B7%20Python-d9b45c?style=flat-square&logoColor=white&labelColor=09090b" />
-<img src="https://img.shields.io/badge/IoT%20%2B%20Software%20Integration-d9b45c?style=flat-square&logoColor=white&labelColor=09090b" />
+<img src="https://img.shields.io/badge/Full%20Stack%20%E2%80%94%20React%20%2B%20Node-09090b?style=for-the-badge&color=d9b45c"/>
+<img src="https://img.shields.io/badge/Firebase%20%2F%20REST%20APIs-09090b?style=for-the-badge&color=8b7cf6"/>
+<img src="https://img.shields.io/badge/DSA%20%C2%B7%20Python-09090b?style=for-the-badge&color=d9b45c"/>
+<img src="https://img.shields.io/badge/IoT%20%2B%20Software-09090b?style=for-the-badge&color=8b7cf6"/>
 
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" height="2px" />
 
 ## 📈 Coding Activity
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains%20Mono&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/dhirajku0023?theme=dark&font=JetBrains%20Mono&ext=contest)
 
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" height="2px" />
 
 ## 📊 GitHub Stats
 
@@ -113,7 +147,13 @@ Daily log and solved problems live in **[LeetCode-Solutions](https://github.com/
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhirajkumar-09&hide_border=true&bg_color=09090b&color=d9b45c&line=8b7cf6&point=ffffff&area=true&area_color=d9b45c" />
 </div>
 
----
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhirajkumar-09&theme=dark_dimmed&no-frame=true&row=1&column=6&margin-w=8" />
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" height="2px" />
 
 <div align="center">
 
@@ -125,4 +165,4 @@ Daily log and solved problems live in **[LeetCode-Solutions](https://github.com/
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:d9b45c,50:3a2f14,100:09090b&height=140&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:d9b45c,30:5c4a1f,70:2b2410,100:09090b&height=140&section=footer" />
