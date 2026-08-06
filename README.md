@@ -4,17 +4,17 @@
 <!-- ═══════════════════════ TYPING INTRO ═══════════════════════ -->
 <div align="center">
   <a href="https://github.com/dhirajkumar-09">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=D9B45C&center=true&vCenter=true&width=650&lines=CSE+(IoT)+Student+%C2%B7+Full+Stack+Developer;Sharpening+DSA%2C+one+problem+a+day;Building+full-stack+%26+AI-driven+products;Learning+in+public%2C+shipping+in+production." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=28&duration=2600&pause=800&color=D9B45C&center=true&vCenter=true&width=650&lines=CSE+(IoT)+Student+%C2%B7+Full+Stack+Developer;Sharpening+DSA%2C+one+problem+a+day;Building+full-stack+%26+AI-driven+products;Learning+in+public%2C+shipping+in+production." alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-09090b?style=for-the-badge&logo=linkedin&logoColor=D9B45C" alt="LinkedIn"/></a>
-  <a href="https://leetcode.com/u/dhirajku0023/"><img src="https://img.shields.io/badge/LeetCode-09090b?style=for-the-badge&logo=leetcode&logoColor=D9B45C" alt="LeetCode"/></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-09090b?style=for-the-badge&logo=googlechrome&logoColor=D9B45C" alt="Portfolio"/></a>
-  <a href="mailto:dhidna9090@gmail.com"><img src="https://img.shields.io/badge/Gmail-09090b?style=for-the-badge&logo=gmail&logoColor=D9B45C" alt="Gmail"/></a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-09090b?style=for-the-badge&logo=linkedin&logoColor=%23D9B45C" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/dhirajku0023/"><img src="https://img.shields.io/badge/LeetCode-09090b?style=for-the-badge&logo=leetcode&logoColor=%23D9B45C" alt="LeetCode"/></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-09090b?style=for-the-badge&logo=googlechrome&logoColor=%23D9B45C" alt="Portfolio"/></a>
+  <a href="mailto:dhidna9090@gmail.com"><img src="https://img.shields.io/badge/Gmail-09090b?style=for-the-badge&logo=gmail&logoColor=%23D9B45C" alt="Gmail"/></a>
 </div>
 
 <br/>
@@ -91,7 +91,7 @@ A growing archive of DSA problems solved with clean, explained Python code.
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=1000&color=D9B45C&center=true&vCenter=true&width=520&lines=Thanks+for+reading+this+far.;Now+go+build+something." alt="footer typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=24&duration=3000&pause=1000&color=D9B45C&center=true&vCenter=true&width=520&lines=Thanks+for+reading+this+far.;Now+go+build+something." alt="footer typing" />
 
 </div>
 
