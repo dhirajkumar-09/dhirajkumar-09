@@ -1,5 +1,5 @@
 <!-- ═══════════════════════ BANNER ═══════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,35:2b2410,70:5c4a1f,100:d9b45c&height=250&section=header&text=DHIRAJ%20KUMAR&fontSize=72&fontColor=f2efe9&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20Problem%20Solver&descSize=18&descAlignY=52&descColor=d9b45c" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:1a1206,50:3d2e0f,75:8a6d24,100:d9b45c&height=260&section=header&text=DHIRAJ%20KUMAR&fontSize=74&fontColor=f2efe9&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20Problem%20Solver&descSize=18&descAlignY=52&descColor=d9b45c" />
 
 <!-- ═══════════════════════ TYPING INTRO ═══════════════════════ -->
 <div align="center">
@@ -13,12 +13,12 @@
 <!-- ═══════════════════════ SOCIAL BADGES (fixed) ═══════════════════════ -->
 <div align="center">
   <a href="https://www.linkedin.com/in/dhiraj-kumar-01b185350" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/u/dhirajku0023/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-09090B?style=for-the-badge&logo=leetcode&logoColor=D9B45C" alt="LeetCode"/>
   </a>
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+  <a href="https://dhiraj-portfolio-steel.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-09090B?style=for-the-badge&logo=googlechrome&logoColor=D9B45C" alt="Portfolio"/>
   </a>
   <a href="mailto:dhidna9090@gmail.com" target="_blank">
@@ -28,7 +28,7 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,50:5c4a1f,100:d9b45c&height=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:5c4a1f,100:d9b45c&height=3" />
 
 ## ⚡ The short version
 
@@ -40,7 +40,7 @@ I'm a CSE (IoT) student who'd rather ship something real than sit through anothe
 - 🎯 Goal: become a Software Engineer at a top product company
 - 💬 Ask me about React/Firebase builds, IoT + software integration, or DSA in Python
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,50:5c4a1f,100:d9b45c&height=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:5c4a1f,100:d9b45c&height=3" />
 
 ## 🚀 What I'm Building
 
@@ -82,7 +82,7 @@ A growing archive of DSA problems solved with clean, explained Python code.
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,50:5c4a1f,100:d9b45c&height=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:5c4a1f,100:d9b45c&height=3" />
 
 ## 📈 Coding Activity
 
@@ -92,7 +92,7 @@ A growing archive of DSA problems solved with clean, explained Python code.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,50:5c4a1f,100:d9b45c&height=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:5c4a1f,100:d9b45c&height=3" />
 
 <div align="center">
 
@@ -104,4 +104,4 @@ A growing archive of DSA problems solved with clean, explained Python code.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:d9b45c,30:5c4a1f,70:2b2410,100:09090b&height=140&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:d9b45c,25:8a6d24,50:3d2e0f,75:1a1206,100:000000&height=150&section=footer" />
