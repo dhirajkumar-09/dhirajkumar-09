@@ -43,23 +43,6 @@ I believe in learning by building — shipping real projects instead of just wat
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:5c4a1f,100:d9b45c&height=3" />
 
-<!-- ═══════════════════════ CURRENTLY LEARNING ═══════════════════════ -->
-## 🧠 Currently Learning
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=D9B45C)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=D9B45C)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=D9B45C)
-![DSA](https://img.shields.io/badge/DSA-000000?style=for-the-badge&logo=leetcode&logoColor=D9B45C)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=D9B45C)
-![Full Stack](https://img.shields.io/badge/Full--Stack%20Dev-000000?style=for-the-badge&logo=react&logoColor=D9B45C)
-![Git](https://img.shields.io/badge/Git%20%26%20GitHub-000000?style=for-the-badge&logo=github&logoColor=D9B45C)
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:5c4a1f,100:d9b45c&height=3" />
-
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 ## ⚡ Tech Stack
 
@@ -188,19 +171,6 @@ Documenting my LeetCode journey with Python solutions as I sharpen my problem-so
 <div align="center">
 
 <img src="https://ghchart.rshah.org/D9B45C/dhirajkumar-09" alt="Dhiraj Kumar's GitHub contribution calendar" width="100%"/>
-
-</div>
-
-> ⚠️ These cards pull live data from `dhirajkumar-09`. If that isn't your exact GitHub username, replace it in all four image URLs above — otherwise the cards will show "user not found" or stay blank. Also note: these third-party stat services (readme-stats, streak-stats, activity-graph) occasionally go down or rate-limit; if a card doesn't load, just refresh the page after a minute — nothing is broken in the code itself.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:5c4a1f,100:d9b45c&height=3" />
-
-<!-- ═══════════════════════ HIGHLIGHTS ═══════════════════════ -->
-## 🏆 Profile Highlights
-
-<div align="center">
-
-🎓 CSE (IoT) Student &nbsp;·&nbsp; 💻 DSA Practitioner &nbsp;·&nbsp; 🤖 AI Enthusiast &nbsp;·&nbsp; 🚀 Project Builder &nbsp;·&nbsp; 🧠 Problem Solver &nbsp;·&nbsp; 🌱 Continuous Learner
 
 </div>
 
