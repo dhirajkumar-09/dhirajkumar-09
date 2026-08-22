@@ -187,7 +187,7 @@ Documenting my LeetCode journey with Python solutions as I sharpen my problem-so
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhirajkumar-09&bg_color=000000&color=D9B45C&line=D9B45C&point=F2EFE9&area=true&area_color=8a6d24&title_color=D9B45C&hide_border=true" width="100%"/>
+<img src="https://ghchart.rshah.org/D9B45C/dhirajkumar-09" alt="Dhiraj Kumar's GitHub contribution calendar" width="100%"/>
 
 </div>
 
