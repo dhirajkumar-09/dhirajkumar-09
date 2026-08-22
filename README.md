@@ -168,23 +168,13 @@ Documenting my LeetCode journey with Python solutions as I sharpen my problem-so
 
 **GitHub Submission / Contribution Chart**
 
+> Total contributions, current streak & longest streak are shown in the **Streak Stats** card above. Below is your day-by-day contribution calendar, same as the one on your real GitHub profile.
+
 <div align="center">
-
+<table><tr><td style="background-color:#ffffff;padding:14px;border-radius:10px;">
 <img src="https://ghchart.rshah.org/D9B45C/dhirajkumar-09" alt="Dhiraj Kumar's GitHub contribution calendar" width="100%"/>
-
+</td></tr></table>
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:5c4a1f,100:d9b45c&height=3" />
-
-<!-- ═══════════════════════ JOURNEY ═══════════════════════ -->
-## 🛠 Developer Journey
-
-<table width="100%">
-<tr><td width="15%" valign="top"><b>2025</b></td><td width="85%">Programming & development fundamentals</td></tr>
-<tr><td width="15%" valign="top"><b>2026</b></td><td width="85%">DSA + Java + Python + C++</td></tr>
-<tr><td width="15%" valign="top"><b>2026</b></td><td width="85%">AI projects + Full-Stack projects</td></tr>
-<tr><td width="15%" valign="top"><b>Future</b></td><td width="85%">Software Engineer + Startup Builder</td></tr>
-</table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:5c4a1f,100:d9b45c&height=3" />
 
