@@ -174,16 +174,24 @@ Documenting my LeetCode journey with Python solutions as I sharpen my problem-so
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhirajkumar-09&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=D9B45C&icon_color=D9B45C&text_color=F2EFE9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajkumar-09&theme=radical&hide_border=true&background=000000&stroke=D9B45C&ring=D9B45C&fire=D9B45C&currStreakLabel=D9B45C" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dhirajkumar-09&show_icons=true&hide_border=true&bg_color=000000&title_color=D9B45C&icon_color=D9B45C&text_color=F2EFE9&border_color=8a6d24" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajkumar-09&hide_border=true&background=000000&stroke=8a6d24&ring=D9B45C&fire=D9B45C&currStreakLabel=D9B45C&sideLabels=F2EFE9&currStreakNum=F2EFE9&sideNums=F2EFE9&dates=8a6d24" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajkumar-09&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=D9B45C&text_color=F2EFE9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajkumar-09&layout=compact&hide_border=true&bg_color=000000&title_color=D9B45C&text_color=F2EFE9&border_color=8a6d24" height="165"/>
 
 </div>
 
-> Replace `dhirajkumar-09` above with your exact GitHub username if different, so the stat cards render correctly.
+**GitHub Submission / Contribution Chart**
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhirajkumar-09&bg_color=000000&color=D9B45C&line=D9B45C&point=F2EFE9&area=true&area_color=8a6d24&title_color=D9B45C&hide_border=true" width="100%"/>
+
+</div>
+
+> ⚠️ These cards pull live data from `dhirajkumar-09`. If that isn't your exact GitHub username, replace it in all four image URLs above — otherwise the cards will show "user not found" or stay blank. Also note: these third-party stat services (readme-stats, streak-stats, activity-graph) occasionally go down or rate-limit; if a card doesn't load, just refresh the page after a minute — nothing is broken in the code itself.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:5c4a1f,100:d9b45c&height=3" />
 
