@@ -155,30 +155,13 @@ Documenting my LeetCode journey with Python solutions as I sharpen my problem-so
 
 </div>
 
-**GitHub Activity**
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dhirajkumar-09&show_icons=true&hide_border=true&bg_color=000000&title_color=D9B45C&icon_color=D9B45C&text_color=F2EFE9&border_color=8a6d24&cache_seconds=1800" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=dhirajkumar-09&hide_border=true&background=000000&stroke=8a6d24&ring=D9B45C&fire=D9B45C&currStreakLabel=D9B45C&sideLabels=F2EFE9&currStreakNum=F2EFE9&sideNums=F2EFE9&dates=8a6d24" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajkumar-09&layout=compact&hide_border=true&bg_color=000000&title_color=D9B45C&text_color=F2EFE9&border_color=8a6d24&cache_seconds=1800" height="165"/>
-
-</div>
-
-**GitHub Submission / Contribution Chart**
-
-> Total contributions, current streak & longest streak are shown in the **Streak Stats** card above. Below is your day-by-day contribution calendar, same as the one on your real GitHub profile.
+**GitHub Contribution Calendar**
 
 <div align="center">
 <table><tr><td style="background-color:#ffffff;padding:14px;border-radius:10px;">
 <img src="https://ghchart.rshah.org/D9B45C/dhirajkumar-09" alt="Dhiraj Kumar's GitHub contribution calendar" width="100%"/>
 </td></tr></table>
 </div>
-
-<sub>Note: the GitHub Stats / Streak Stats cards are served by shared free instances (Vercel + demolab) and occasionally rate-limit under heavy traffic — if a card shows a broken image, it's usually just a temporary rate limit and will resolve on refresh, not a config error in this file.</sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:5c4a1f,100:d9b45c&height=3" />
 
