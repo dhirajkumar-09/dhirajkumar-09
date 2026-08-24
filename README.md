@@ -104,7 +104,7 @@ AI-powered learning platform — smart roadmaps, mock tests, progress analytics 
 <img src="https://img.shields.io/badge/Firebase-09090b?style=flat-square&color=b8860b"/>
 <img src="https://img.shields.io/badge/AI-09090b?style=flat-square&color=d9b45c"/>
 <br/><br/>
-<a href="YOUR_REPOSITORY_LINK">📂 View Repository</a> · <a href="YOUR_LIVE_DEMO_LINK">🌐 Live Demo</a>
+<img src="https://img.shields.io/badge/repo%20link%20coming%20soon-1a1206?style=flat-square&color=555"/>
 </td>
 <td width="50%" valign="top">
 <h4>🏟 Stadium Command Centre</h4>
@@ -114,7 +114,7 @@ Real-time stadium monitoring dashboard built for smart, large-scale event manage
 <img src="https://img.shields.io/badge/Tailwind-09090b?style=flat-square&color=b8860b"/>
 <img src="https://img.shields.io/badge/Firebase-09090b?style=flat-square&color=d9b45c"/>
 <br/><br/>
-<a href="YOUR_REPOSITORY_LINK">📂 View Repository</a> · <a href="YOUR_LIVE_DEMO_LINK">🌐 Live Demo</a>
+<img src="https://img.shields.io/badge/repo%20link%20coming%20soon-1a1206?style=flat-square&color=555"/>
 </td>
 </tr>
 <tr>
@@ -126,7 +126,7 @@ A responsive personal portfolio showcasing my projects, skills and achievements.
 <img src="https://img.shields.io/badge/CSS-09090b?style=flat-square&color=b8860b"/>
 <img src="https://img.shields.io/badge/JavaScript-09090b?style=flat-square&color=d9b45c"/>
 <br/><br/>
-<a href="YOUR_REPOSITORY_LINK">📂 View Repository</a> · <a href="https://dhiraj-portfolio-steel.vercel.app/">🌐 Live Demo</a>
+<a href="https://dhiraj-portfolio-steel.vercel.app/">🌐 Live Demo</a>
 </td>
 <td width="50%" valign="top">
 <h4>🧠 LeetCode Solutions</h4>
@@ -135,10 +135,12 @@ Documenting my LeetCode journey with Python solutions as I sharpen my problem-so
 <img src="https://img.shields.io/badge/Python-09090b?style=flat-square&color=d9b45c"/>
 <img src="https://img.shields.io/badge/DSA-09090b?style=flat-square&color=b8860b"/>
 <br/><br/>
-<a href="YOUR_REPOSITORY_LINK">📂 View Repository</a>
+<a href="https://leetcode.com/u/dhirajku0023/">📂 View Profile</a>
 </td>
 </tr>
 </table>
+
+> 💡 Once your repos are public, swap the "repo link coming soon" badges above for real `📂 View Repository` / `🌐 Live Demo` links — a stray placeholder URL is one of the most common reasons visitors bounce off a profile README.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:5c4a1f,100:d9b45c&height=3" />
 
@@ -157,12 +159,12 @@ Documenting my LeetCode journey with Python solutions as I sharpen my problem-so
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhirajkumar-09&show_icons=true&hide_border=true&bg_color=000000&title_color=D9B45C&icon_color=D9B45C&text_color=F2EFE9&border_color=8a6d24" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajkumar-09&hide_border=true&background=000000&stroke=8a6d24&ring=D9B45C&fire=D9B45C&currStreakLabel=D9B45C&sideLabels=F2EFE9&currStreakNum=F2EFE9&sideNums=F2EFE9&dates=8a6d24" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dhirajkumar-09&show_icons=true&hide_border=true&bg_color=000000&title_color=D9B45C&icon_color=D9B45C&text_color=F2EFE9&border_color=8a6d24&cache_seconds=1800" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=dhirajkumar-09&hide_border=true&background=000000&stroke=8a6d24&ring=D9B45C&fire=D9B45C&currStreakLabel=D9B45C&sideLabels=F2EFE9&currStreakNum=F2EFE9&sideNums=F2EFE9&dates=8a6d24" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajkumar-09&layout=compact&hide_border=true&bg_color=000000&title_color=D9B45C&text_color=F2EFE9&border_color=8a6d24" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajkumar-09&layout=compact&hide_border=true&bg_color=000000&title_color=D9B45C&text_color=F2EFE9&border_color=8a6d24&cache_seconds=1800" height="165"/>
 
 </div>
 
@@ -175,6 +177,8 @@ Documenting my LeetCode journey with Python solutions as I sharpen my problem-so
 <img src="https://ghchart.rshah.org/D9B45C/dhirajkumar-09" alt="Dhiraj Kumar's GitHub contribution calendar" width="100%"/>
 </td></tr></table>
 </div>
+
+<sub>Note: the GitHub Stats / Streak Stats cards are served by shared free instances (Vercel + demolab) and occasionally rate-limit under heavy traffic — if a card shows a broken image, it's usually just a temporary rate limit and will resolve on refresh, not a config error in this file.</sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:5c4a1f,100:d9b45c&height=3" />
 
