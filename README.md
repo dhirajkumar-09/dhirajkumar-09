@@ -155,14 +155,6 @@ Documenting my LeetCode journey with Python solutions as I sharpen my problem-so
 
 </div>
 
-**Total Contributions & Streak**
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=dhirajkumar-09&theme=github-green&hide_border=true&background=000000&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=F2EFE9&currStreakNum=F2EFE9&sideNums=F2EFE9&dates=39D353" alt="Dhiraj Kumar's GitHub streak stats"/>
-
-</div>
-
 **GitHub Contribution Calendar**
 
 <div align="center">
