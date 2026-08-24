@@ -155,26 +155,21 @@ Documenting my LeetCode journey with Python solutions as I sharpen my problem-so
 
 </div>
 
+**Total Contributions & Streak**
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=dhirajkumar-09&theme=github-green&hide_border=true&background=000000&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=F2EFE9&currStreakNum=F2EFE9&sideNums=F2EFE9&dates=39D353" alt="Dhiraj Kumar's GitHub streak stats"/>
+
+</div>
+
 **GitHub Contribution Calendar**
 
 <div align="center">
 <table><tr><td style="background-color:#ffffff;padding:14px;border-radius:10px;">
-<img src="https://ghchart.rshah.org/D9B45C/dhirajkumar-09" alt="Dhiraj Kumar's GitHub contribution calendar" width="100%"/>
+<img src="https://ghchart.rshah.org/39D353/dhirajkumar-09" alt="Dhiraj Kumar's GitHub contribution calendar" width="100%"/>
 </td></tr></table>
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:5c4a1f,100:d9b45c&height=3" />
-
-<!-- ═══════════════════════ PHILOSOPHY ═══════════════════════ -->
-## 💡 Developer Philosophy
-
-> Build more than you watch.
-
-> Understand the problem before writing the code.
-
-> Consistency beats intensity.
-
-> Keep learning. Keep building.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:5c4a1f,100:d9b45c&height=3" />
 
