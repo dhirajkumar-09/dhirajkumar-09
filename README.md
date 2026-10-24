@@ -26,9 +26,15 @@
   </a>
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhirajkumar-09&color=d9b45c&style=for-the-badge&label=PROFILE+VIEWS&labelColor=000000" alt="Profile Views"/>
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:5c4a1f,100:d9b45c&height=3" />
 
-<!-- ═══════════════════════ SHORT VERSION ═══════════════════════ -->
+<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
 ## ⚡ About Me
 
 I'm a **2nd-year CSE (IoT) student** passionate about problem-solving, software development, and Artificial Intelligence.
@@ -44,47 +50,46 @@ I believe in learning by building — shipping real projects instead of just wat
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:5c4a1f,100:d9b45c&height=3" />
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
-## ⚡ Tech Stack
+## 🛠 Tech Stack
 
 <table width="100%">
 <tr>
 <td width="20%" valign="top"><b>Languages</b></td>
 <td width="80%">
-<img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=d9b45c"/>
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=d9b45c"/>
-<img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=d9b45c"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=d9b45c"/>
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=d9b45c"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=d9b45c"/>
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=d9b45c"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=d9b45c"/>
 </td>
 </tr>
 <tr>
 <td width="20%" valign="top"><b>Frontend</b></td>
 <td width="80%">
-<img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=d9b45c"/>
-<img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=d9b45c"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=d9b45c"/>
-<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=d9b45c"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-000000?style=flat-square&logo=tailwindcss&logoColor=d9b45c"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=d9b45c"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=d9b45c"/>
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=d9b45c"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=d9b45c"/>
 </td>
 </tr>
 <tr>
 <td width="20%" valign="top"><b>Backend / DB</b></td>
 <td width="80%">
-<img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=d9b45c"/>
+<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=d9b45c"/>
 </td>
 </tr>
 <tr>
 <td width="20%" valign="top"><b>AI</b></td>
 <td width="80%">
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=d9b45c"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=flat-square&logo=openai&logoColor=d9b45c"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=d9b45c"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=d9b45c"/>
 </td>
 </tr>
 <tr>
 <td width="20%" valign="top"><b>Tools</b></td>
 <td width="80%">
-<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=d9b45c"/>
-<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=d9b45c"/>
-<img src="https://img.shields.io/badge/VS%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=d9b45c"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=d9b45c"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=d9b45c"/>
+<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=d9b45c"/>
 </td>
 </tr>
 </table>
@@ -100,21 +105,21 @@ I believe in learning by building — shipping real projects instead of just wat
 <h4>🎓 EduForge</h4>
 AI-powered learning platform — smart roadmaps, mock tests, progress analytics and productivity tools.
 <br/><br/>
-<img src="https://img.shields.io/badge/React-09090b?style=flat-square&color=d9b45c"/>
-<img src="https://img.shields.io/badge/Firebase-09090b?style=flat-square&color=b8860b"/>
-<img src="https://img.shields.io/badge/AI-09090b?style=flat-square&color=d9b45c"/>
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=d9b45c"/>
+<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=d9b45c"/>
+<img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=d9b45c"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/repo%20link%20coming%20soon-1a1206?style=flat-square&color=555"/>
+<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-1a1206?style=flat-square&labelColor=000000&color=d9b45c"/>
 </td>
 <td width="50%" valign="top">
 <h4>🏟 Stadium Command Centre</h4>
 Real-time stadium monitoring dashboard built for smart, large-scale event management.
 <br/><br/>
-<img src="https://img.shields.io/badge/React-09090b?style=flat-square&color=d9b45c"/>
-<img src="https://img.shields.io/badge/Tailwind-09090b?style=flat-square&color=b8860b"/>
-<img src="https://img.shields.io/badge/Firebase-09090b?style=flat-square&color=d9b45c"/>
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=d9b45c"/>
+<img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=d9b45c"/>
+<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=d9b45c"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/repo%20link%20coming%20soon-1a1206?style=flat-square&color=555"/>
+<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-1a1206?style=flat-square&labelColor=000000&color=d9b45c"/>
 </td>
 </tr>
 <tr>
@@ -122,53 +127,62 @@ Real-time stadium monitoring dashboard built for smart, large-scale event manage
 <h4>🌐 My Portfolio</h4>
 A responsive personal portfolio showcasing my projects, skills and achievements.
 <br/><br/>
-<img src="https://img.shields.io/badge/HTML-09090b?style=flat-square&color=d9b45c"/>
-<img src="https://img.shields.io/badge/CSS-09090b?style=flat-square&color=b8860b"/>
-<img src="https://img.shields.io/badge/JavaScript-09090b?style=flat-square&color=d9b45c"/>
+<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=d9b45c"/>
+<img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=d9b45c"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=d9b45c"/>
 <br/><br/>
-<a href="https://dhiraj-portfolio-steel.vercel.app/">🌐 Live Demo</a>
+<a href="https://dhiraj-portfolio-steel.vercel.app/"><img src="https://img.shields.io/badge/LIVE%20DEMO-000000?style=flat-square&logo=vercel&logoColor=d9b45c&color=d9b45c&labelColor=000000"/></a>
 </td>
 <td width="50%" valign="top">
 <h4>🧠 LeetCode Solutions</h4>
 Documenting my LeetCode journey with Python solutions as I sharpen my problem-solving skills.
 <br/><br/>
-<img src="https://img.shields.io/badge/Python-09090b?style=flat-square&color=d9b45c"/>
-<img src="https://img.shields.io/badge/DSA-09090b?style=flat-square&color=b8860b"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=d9b45c"/>
+<img src="https://img.shields.io/badge/DSA-000000?style=for-the-badge&logo=leetcode&logoColor=d9b45c"/>
 <br/><br/>
-<a href="https://leetcode.com/u/dhirajku0023/">📂 View Profile</a>
+<a href="https://leetcode.com/u/dhirajku0023/"><img src="https://img.shields.io/badge/VIEW%20PROFILE-000000?style=flat-square&logo=leetcode&logoColor=d9b45c&color=d9b45c&labelColor=000000"/></a>
 </td>
 </tr>
 </table>
 
-> 💡 Once your repos are public, swap the "repo link coming soon" badges above for real `📂 View Repository` / `🌐 Live Demo` links — a stray placeholder URL is one of the most common reasons visitors bounce off a profile README.
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:5c4a1f,100:d9b45c&height=3" />
 
 <!-- ═══════════════════════ STATS ═══════════════════════ -->
-## 📊 Contribution Stats
-
-**LeetCode** — my problem-solving progress broken down by difficulty (Easy / Medium / Hard), along with my current global rank.
+## 📊 GitHub Stats
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/dhirajku0023?theme=dark&font=JetBrains%20Mono)
+<a href="https://github.com/dhirajkumar-09">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=dhirajkumar-09&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&border_radius=10&cache_seconds=14400" alt="Dhiraj's GitHub Stats"/>
+</a>
+<a href="https://github.com/dhirajkumar-09">
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajkumar-09&layout=compact&theme=tokyonight&border_radius=10&langs_count=6&cache_seconds=14400" alt="Top Languages"/>
+</a>
 
 </div>
 
-**Total Contributions & Streak**
+### 🔥 Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=dhirajkumar-09&theme=dark&hide_border=true&background=000000&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=F2EFE9&currStreakNum=F2EFE9&sideNums=F2EFE9&dates=39D353" alt="Dhiraj Kumar's GitHub streak stats"/>
+<img src="https://streak-stats.demolab.com/?user=dhirajkumar-09&theme=dark&hide_border=true&background=000000&ring=D9B45C&fire=D9B45C&currStreakLabel=D9B45C&sideLabels=F2EFE9&currStreakNum=F2EFE9&sideNums=F2EFE9&dates=8a6d24" alt="Dhiraj Kumar's GitHub streak stats"/>
 
 </div>
 
-**GitHub Contribution Calendar**
+### 🧩 LeetCode
 
 <div align="center">
-<table><tr><td style="background-color:#ffffff;padding:14px;border-radius:10px;">
-<img src="https://ghchart.rshah.org/39D353/dhirajkumar-09" alt="Dhiraj Kumar's GitHub contribution calendar" width="100%"/>
-</td></tr></table>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/dhirajku0023?theme=dark&font=JetBrains%20Mono&ext=heatmap)
+
+</div>
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhirajkumar-09&bg_color=000000&color=D9B45C&line=D9B45C&point=F2EFE9&area=true&area_color=8a6d24&hide_border=true&title_color=D9B45C" alt="Contribution Graph"/>
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:5c4a1f,100:d9b45c&height=3" />
